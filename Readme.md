@@ -11,7 +11,7 @@
 ***
 
 ### 模型流程
-![](https://graph.baidu.com/resource/112bc5d313bfde68b3c2c01562920395.jpg)
+![](data/approach.jpg)
 
 
 
